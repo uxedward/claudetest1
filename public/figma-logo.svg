@@ -1,0 +1,24 @@
+<svg width="800" height="300" viewBox="0 0 800 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Figma Icon -->
+  <g transform="translate(50, 50)">
+    <!-- Top left - Orange/Red -->
+    <path d="M25 0H50C63.807 0 75 11.193 75 25C75 38.807 63.807 50 50 50H25V0Z" fill="#F24E1E"/>
+    <path d="M0 25C0 11.193 11.193 0 25 0V50C11.193 50 0 38.807 0 25Z" fill="#FF7262"/>
+
+    <!-- Middle left - Purple -->
+    <path d="M0 100C0 86.193 11.193 75 25 75V125C11.193 125 0 113.807 0 100Z" fill="#A259FF"/>
+
+    <!-- Middle right - Blue -->
+    <circle cx="50" cy="100" r="25" fill="#1ABCFE"/>
+
+    <!-- Bottom left - Green -->
+    <path d="M0 150C0 163.807 11.193 175 25 175C38.807 175 50 163.807 50 150V125H25C11.193 125 0 136.193 0 150Z" fill="#0ACF83"/>
+
+    <!-- Connection pieces -->
+    <rect x="25" y="50" width="25" height="25" fill="#A259FF"/>
+    <rect x="25" y="75" width="25" height="25" fill="#A259FF"/>
+  </g>
+
+  <!-- Figma Text -->
+  <text x="180" y="160" font-family="Arial, sans-serif" font-size="120" font-weight="bold" fill="#000000">Figma</text>
+</svg>
